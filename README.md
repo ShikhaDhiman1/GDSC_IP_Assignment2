@@ -1,5 +1,4 @@
-<h1>Assignment</h1>
-<h2><i>Stacks & Queues</i></h2>
+<h1>Assignment2: &nbsp;<i>Stacks & Queues</i></h1>
 <br>
 <h3><b><i>Stacks</i></b></h3>
 <p><b>Ques1: </b>Valid Parentheses</p>
